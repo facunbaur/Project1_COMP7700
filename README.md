@@ -1,8 +1,8 @@
 # Project1_COMP7700
 
-DOC   : for design document
-
 DATA  : for database file with test data
+
+DOC   : for design document
 
 SRC   : for Java source code
 
